@@ -1,0 +1,35 @@
+{
+  "name": "@fullstackship/responsive-layout",
+  "version": "1.0.1",
+  "homepage": "https://github.com/fullstackship/responsive-layout",
+  "peerDependencies": {
+    "@angular/common": "^9.1.1",
+    "@angular/core": "^9.1.1",
+    "@angular/cdk": "^9.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+
+  "author": {
+    "name": "FulltackShip",
+    "url": "https://github.com/fullstackship"
+  },
+  "keywords": [
+    "typescript",
+    "angular",
+    "flex-layout",
+    "responsive-layout",
+    "angular-material"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fullstackship/responsive-layout.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fullstackship/responsive-layout/issues"
+  }
+}
