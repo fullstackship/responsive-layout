@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/fullstackship">
-    <img src="https://avatars3.githubusercontent.com/u/50682580?s=400&u=2122f5a1e5b8af4c42d49924d9f8c267d760b1ad&v=4" alt="Logo" width="80" height="80">
+    <img src="https://yt3.ggpht.com/a/AATXAJzwP6YwGXZqGvZ5ImKo7n2NvlB1LPOVd6Jt5_qo=s288-c-k-c0xffffffff-no-rj-mo" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Responsive Layout</h3>
